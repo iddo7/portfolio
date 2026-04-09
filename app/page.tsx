@@ -27,10 +27,16 @@ const items = [
     position: { x: -0.75, y: 0.45 },
   },
   {
+    key: "github",
+    label: "github",
+    href: "https://github.com/iddo7",
+    position: { x: -0.65, y: 0.55 },
+  },
+  {
     key: "instagram",
     label: "instagram",
     href: "https://www.instagram.com/isaac.ngrs/",
-    position: { x: -0.65, y: 0.55 },
+    position: { x: -0.55, y: 0.72 },
   },
   {
     key: "email",
