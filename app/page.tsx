@@ -23,7 +23,7 @@ const items = [
   {
     key: "goodwhen",
     label: "goodwhen",
-    href: "https://goodwhen.isaacnegreiros.com",
+    href: "https://goodwhen.vercel.app",
     position: { x: 0.58, y: 0.08 },
     className: "text-violet-500",
     card: (
