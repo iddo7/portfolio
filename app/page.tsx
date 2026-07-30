@@ -21,6 +21,19 @@ const items = [
     ),
   },
   {
+    key: "goodwhen",
+    label: "goodwhen",
+    href: "https://goodwhen.isaacnegreiros.com",
+    position: { x: 0.58, y: 0.08 },
+    className: "text-violet-500",
+    card: (
+      <div className="w-52 border border-violet-500/20 bg-violet-50/50 p-3 text-sm text-violet-950 shadow-md backdrop-blur-sm">
+        <p className="mb-1 font-medium text-violet-500">goodwhen</p>
+        <p className="leading-snug text-violet-950/70">an accountless availability poll for finding a time that works.</p>
+      </div>
+    ),
+  },
+  {
     key: "linked_in",
     label: "linkedin",
     href: "https://www.linkedin.com/in/isaac-negreiros/",
